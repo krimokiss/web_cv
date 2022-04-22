@@ -1,44 +1,43 @@
 {
-    "name": "Anna Quincey",
+    "name": "Abdelkrim KISSOUM",
     "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
+    "location": "Cluses, FR ",
+    "avatar": "",
     "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "kissab@gmail.com",
+    "telephone": "+06 51 70 70 72",
+    "website": "https://abdelkrim.kissoum.dev",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
-        "UI Design",
         "React",
         "Git"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "French",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Arabic",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@krimokiss",
+            "url": "https://github.com/krimokiss"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "abdelkrim-kissoum",
+            "url": "https://www.linkedin.com/abdelkrim-kissoum-368198236/"
         }
     ]
 }
