@@ -3,4 +3,5 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+I am in training on web and apps developer at Digifab - Annemasse. During the next year, I will learn all the skills in order to integrate a web team developer, hopefully in a Scrum Team.
+I will be able ton handle front-end and back-end tasks. I am curious, persevering and open minded.

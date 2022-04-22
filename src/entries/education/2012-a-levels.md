@@ -1,7 +1,7 @@
 ---
-title: A-Levels
-organization: Saint Ipsum High School
-location: Graz, AT
-start: 2004-09-01
-end: 2012-07-01
+title: Higher National Diploma
+organization: Lycee Guillaume Ficher
+location: Bonneville, FR
+start: 1997-09-01
+end: 1999-07-01
 ---

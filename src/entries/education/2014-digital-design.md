@@ -1,7 +1,7 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
-location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+title: Bachelor, International business
+organization: IPAC
+location: Chambery, FR
+start: 1999-09-16
+end: 2001-06-30
 ---
