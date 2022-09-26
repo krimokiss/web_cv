@@ -1,6 +1,6 @@
 ---
-title: Business Developer2
-organization: Panorama Media2
+title: Business Developer
+organization: Panorama Media
 # organizationUrl: https://www.netlify.com
 location: Beijing, CH
 start: 2002-03-14

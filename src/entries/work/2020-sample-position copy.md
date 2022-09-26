@@ -1,13 +1,12 @@
 ---
-title: Business Developer
-organization: Panorama Media
+title: Marketing Assistant
+organization: Amphenol Socapex
 # organizationUrl: https://www.netlify.com
-location: Beijing, CH
-start: 2002-03-14
-end: 2002-12-08
+location: Endicott NY, USA
+start: 2001-07-25
+end: 2002-06-20
 ---
 
-Finding sponsors for the launch of new TV shows,
-sale of television advertising space, promotion of Chinese films
-internationally, development of exchange partnerships
-resignations with foreign TV.
+Marketing and budget analysis, quarterly forecasts and
+annual sales, management of a customer portfolio, processing
+orders, quotes and invoices, logistics monitoring.
