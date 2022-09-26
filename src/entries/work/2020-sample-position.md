@@ -1,9 +1,13 @@
 ---
-title: Senior Front-End Developer
-organization: Netlify
-organizationUrl: https://www.netlify.com
-location: San Francisco, CA
-start: 2020-03-14
+title: Business Developer
+organization: Panorama Media
+# organizationUrl: https://www.netlify.com
+location: Beijing, CH
+start: 2002-03-14
+end: 2002-12-08
 ---
 
-Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Gravida arcu ac tortor dignissim convallis aenean et. In massa tempor nec feugiat nisl. Sed blandit libero volutpat sed cras ornare arcu dui. Morbi leo urna molestie at. Sapien faucibus et molestie ac feugiat sed lectus.
+Finding sponsors for the launch of new TV shows,
+sale of television advertising space, promotion of Chinese films
+internationally, development of exchange partnerships
+resignations with foreign TV.

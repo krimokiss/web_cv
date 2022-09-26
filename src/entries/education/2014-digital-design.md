@@ -1,5 +1,5 @@
 ---
-title: Bachelor, International business
+title: Bachelor, International Business
 organization: IPAC
 location: Chambery, FR
 start: 1999-09-16
