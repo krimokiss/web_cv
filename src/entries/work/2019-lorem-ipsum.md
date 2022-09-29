@@ -8,5 +8,4 @@ end: 2004-07-05
 ---
 
 
-Teaching of marketing, communication and management
-of companies. Introduction to IT tools (MS Office).
+Teaching of marketing, communication and management of companies. Introduction to IT tools (MS Office).

@@ -7,6 +7,4 @@ start: 2000-08-25
 end: 2001-06-20
 ---
 
-Marketing and budget analysis, quarterly forecasts and
-annual sales, management of a customer portfolio, processing
-orders, quotes and invoices, logistics monitoring.
+Marketing and budget analysis, quarterly forecasts and annual sales, management of a customer portfolio, processing orders, quotes and invoices, logistics monitoring.
