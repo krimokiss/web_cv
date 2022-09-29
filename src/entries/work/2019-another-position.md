@@ -7,8 +7,7 @@ start: 2005-04-09
 end: 2021-12-27
 ---
 
-Management of a dozen employees, recruitment, accounting,
-management of purchases, schedules and suppliers, implementation
-advertising actions on social networks and the website.
-Update of website content (products, prices, promotions)
+Management of a dozen employees(recruitment, training,
+payroll), accounting, purchasing, supplier negociation,
+advertising,social media and website management (products, prices, promotions).
 Competitive intelligence

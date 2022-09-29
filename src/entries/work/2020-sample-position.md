@@ -9,5 +9,4 @@ end: 2002-12-08
 
 Finding sponsors for the launch of new TV shows,
 sale of television advertising space, promotion of Chinese films
-internationally, development of exchange partnerships
-resignations with foreign TV.
+internationally, development of partnerships with foreign TV.

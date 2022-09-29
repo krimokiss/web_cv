@@ -5,14 +5,14 @@
     "avatar": "avatar.jpg",
     "pronouns": "",
     "email": "abdelkrim.kissoum@gmail.com",
-    "telephone": "+06 51 70 70 72",
+    "telephone": "+336 51 70 70 72",
     "website": "abdelkrim-kissoum.netifly.app",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "React",
-        "Git"
+        "HTML/CSS",
+        "Javascript / React",
+        "NodeJS / Express",
+        "Angular / Docker",
+        "Github / Figma"
     ],
     "languages": [
         {
