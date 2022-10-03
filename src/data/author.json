@@ -1,17 +1,21 @@
 {
     "name": "Abdelkrim KISSOUM",
-    "occupation": "Web an Apps Developer",
+    "occupation": "Web and Apps Developer",
     "location": "Cluses, FR ",
     "avatar": "avatar.jpg",
     "pronouns": "",
     "email": "abdelkrim.kissoum@gmail.com",
-    "telephone": "+336 51 70 70 72",
+    "telephone": "+33 (6) 51 70 70 72",
     "website": "abdelkrim-kissoum.netifly.app",
     "skills": [
-        "HTML/CSS",
-        "Javascript / React",
+        "HTML / CSS",
+        "Javascript",
         "NodeJS / Express",
-        "Angular / Docker",
+        "ReactJS",
+        "Angular",
+        "PostGreSQL",
+        "MongoDB",
+        "Docker",
         "Github / Figma"
     ],
     "languages": [
@@ -21,7 +25,7 @@
         },
         {
             "name": "English",
-            "level": "fluent"
+            "level": "fluent (C1)"
         },
         {
             "name": "Arabic",
