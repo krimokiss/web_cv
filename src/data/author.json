@@ -21,15 +21,15 @@
     "languages": [
         {
             "name": "French",
-            "level": "native"
+            "level": "Native"
         },
         {
             "name": "English",
-            "level": "fluent (C1)"
+            "level": "Fluent (C1)"
         },
         {
             "name": "Arabic",
-            "level": "basic"
+            "level": "Basic"
         }
     ],
     "social": [
