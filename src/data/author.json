@@ -14,7 +14,6 @@
         "ReactJS",
         "Angular",
         "PostGreSQL",
-        "MongoDB",
         "Docker",
         "Github / Figma"
     ],
@@ -25,11 +24,11 @@
         },
         {
             "name": "English",
-            "level": "Fluent (C1)"
+            "level": "Fluent (B2)"
         },
         {
             "name": "Arabic",
-            "level": "Basic"
+            "level": "Basics"
         }
     ],
     "social": [
