@@ -2,5 +2,4 @@
 tags: introduction
 title: About Me
 ---
-18 years of experience in marketing and currently following a new career path in Web Development at Digifab since March 2022. Looking for an internship (2 to 6 months), to consolidate my skills and apply my knowledge in front-end/back-end tasks.
-I am dynamic, curious and passionate about technology, eager to take on new challenges whithin a web developer team.
+With 18 years of experience in marketing and having recently completed a Web Development program at Digifab in March 2023, I am now a qualified web and app developer seeking new  projects. Equipped with front-end and back-end skills, I am eager to apply my expertise in a professional setting. As a dynamic, curious, and technology-passionate individual, I am ready to take on new challenges within a web development team.
