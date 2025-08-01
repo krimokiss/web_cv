@@ -1,21 +1,14 @@
 {
-    "name": "Abdel",
-    "occupation": "Web and Apps Developer",
-    "location": "Cluses, FR ",
+    "name": "A",
+    "occupation": "W",
+    "location": " ",
     "avatar": "avatar.jpg",
     "pronouns": "",
-    "email": "abdelkrim.kissoum@gmail.com",
-    "telephone": "+33 (6) 51 70 70 72",
-    "website": "abdelkrim-kissoum.netifly.app",
+    "email": "gmail.com",
+    "telephone": "+33",
+    "website": "https://abdelkrim-kissoum.netlify.app/",
     "skills": [
-        "HTML / CSS",
-        "Javascript",
-        "NodeJS / Express",
-        "ReactJS",
-        "Angular",
-        "PostGreSQL",
-        "Docker",
-        "Github / Figma"
+        
     ],
     "languages": [
         {
@@ -26,21 +19,18 @@
             "name": "English",
             "level": "Fluent (B2)"
         },
-        {
-            "name": "Arabic",
-            "level": "Basics"
-        }
+        
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@krimokiss",
-            "url": "https://github.com/krimokiss"
+            "user": "@",
+            "url": ""
         },
         {
             "name": "LinkedIn",
-            "user": "Abdelkrim Kissoum",
-            "url": "https://www.linkedin.com/in/abdelkrim-kissoum/"
+            "user": "A",
+            "url": "h"
         }
     ]
 }

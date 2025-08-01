@@ -4,6 +4,6 @@ title: Interests
 ---
 
 
-* Biking
-* Hiking
-* Soccer
+* B
+* H
+* S
